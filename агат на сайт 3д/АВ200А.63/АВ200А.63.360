@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 60,
+    "horizontalStartingIndex": 30,
+    "horizontalWrap": true,
+    "name": "АВ200А.63",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
